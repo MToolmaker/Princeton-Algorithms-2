@@ -6,4 +6,8 @@
         <RootNamespace>Princeton_Algorithms_2</RootNamespace>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="JetBrains.Annotations" Version="2021.1.0-eap01" />
+    </ItemGroup>
+
 </Project>
