@@ -5,6 +5,8 @@
         <RootNamespace>Princeton_Algorithms_2_Tests</RootNamespace>
 
         <IsPackable>false</IsPackable>
+
+        <Nullable>enable</Nullable>
     </PropertyGroup>
 
     <ItemGroup>
